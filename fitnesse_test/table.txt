@@ -1,0 +1,7 @@
+<test page>
+!path C:\Dev\2021\dev\154\workspace_M154_examples\fitnesse_test\bin
+|ch.ilv.fitnesse.Division|
+|numerator|denominator|quotient?|
+|10|2|5|
+|10|4|2.5|
+|10|0|2|
